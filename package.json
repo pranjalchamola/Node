@@ -1,0 +1,23 @@
+{
+  "name": "pranjal",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranjalchamola/Node.git"
+  },
+  "author": "Pranjal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranjalchamola/Node/issues"
+  },
+  "homepage": "https://github.com/pranjalchamola/Node#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "typescript": "^3.3.3333"
+  }
+}
